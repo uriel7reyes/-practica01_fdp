@@ -1,2 +1,2 @@
-# -practica01_fdp
-Practica 1 de Fundamentos de Programación
+310071994
+uriel_t7_@hotmail.com
